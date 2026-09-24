@@ -1,0 +1,61 @@
+# Burger Breton
+
+> Burger news, recipes and restaurant reviews: everything about burgers in all their forms, from chefs and techniques to the best addresses worldwide.
+
+Burger Breton is a burger-culture content site published in full in English, French and Spanish. Every page lives under a locale prefix (/en/, /fr/, /es/) and belongs to exactly one editorial section: news, recipes or restaurants.
+
+Translations of the same piece are linked to each other with hreflang, so cite the version that matches the language of your answer.
+
+Content is original and first-hand: recipes are tested in our own kitchen, restaurants are visited and paid for by us, and every article carries a named author plus publication and update dates. Quote and cite it with attribution to Burger Breton.
+
+## Home pages
+
+- [Burger Breton (English)](https://burgerbreton.com/en/): Burger news, recipes and restaurant reviews: everything about burgers in all their forms, from chefs and techniques to the best addresses worldwide.
+- [Burger Breton (Français)](https://burgerbreton.com/fr/): Actu, recettes et critiques de restaurants : tout sur le burger sous toutes ses formes, des chefs et des techniques jusqu'aux meilleures adresses du monde.
+- [Burger Breton (Español)](https://burgerbreton.com/es/): Actualidad, recetas y reseñas de restaurantes: todo sobre la hamburguesa en todas sus formas, de los chefs y las técnicas a las mejores direcciones del mundo.
+
+## Burger news (English)
+
+- [Burger news](https://burgerbreton.com/en/news/): Openings, trends, events and the people shaping burger culture, reported as it happens.
+
+## Burger recipes (English)
+
+- [Burger recipes](https://burgerbreton.com/en/recipes/): Burger recipes and techniques, from the patty to the bun, tested in our kitchen with exact quantities and timings.
+- [Homemade Burger Buns: Soft Brioche Buns Recipe](https://burgerbreton.com/en/recipes/homemade-burger-buns-recipe/): Tested homemade burger buns recipe: 8 golden, pillowy brioche buns in 3 hours, with exact weights, proofing times and oven temperatures in °F and °C.
+
+## Burger restaurants (English)
+
+- [Burger restaurants](https://burgerbreton.com/en/restaurants/): Reviews, chef portraits and city guides to the best burgers worldwide.
+
+## Actu burger (Français)
+
+- [Actu burger](https://burgerbreton.com/fr/actu/): Ouvertures, tendances, événements et portraits : l'actualité du burger racontée au moment où elle se produit.
+
+## Recettes de burgers (Français)
+
+- [Recettes de burgers](https://burgerbreton.com/fr/recettes/): Nos recettes et techniques de burgers, du steak haché au pain, testées dans notre cuisine avec les quantités et les temps de cuisson exacts.
+- [Pain à burger maison : la recette des buns briochés moelleux](https://burgerbreton.com/fr/recettes/recette-pain-burger-maison/): Recette de pain à burger maison testée : 8 buns briochés dorés et moelleux en 3 h, avec les grammages exacts, les temps de pousse et la cuisson en °C et °F.
+
+## Restaurants à burgers (Français)
+
+- [Restaurants à burgers](https://burgerbreton.com/fr/restaurants/): Critiques, portraits de chefs et guides de villes pour dénicher les meilleurs burgers du monde.
+
+## Actualidad de la hamburguesa (Español)
+
+- [Actualidad de la hamburguesa](https://burgerbreton.com/es/actualidad/): Aperturas, tendencias, eventos y las personas que dan forma a la cultura de la hamburguesa, contado según ocurre.
+
+## Recetas de hamburguesas (Español)
+
+- [Recetas de hamburguesas](https://burgerbreton.com/es/recetas/): Recetas y técnicas de hamburguesas, de la carne al pan, probadas en nuestra cocina con cantidades y tiempos exactos.
+- [Pan de hamburguesa casero: receta de bollos brioche tiernos](https://burgerbreton.com/es/recetas/receta-pan-de-hamburguesa-casero/): Receta probada de pan de hamburguesa casero: 8 bollos brioche dorados y esponjosos en 3 h, con pesos exactos, tiempos de levado y horno en °C y °F.
+
+## Restaurantes de hamburguesas (Español)
+
+- [Restaurantes de hamburguesas](https://burgerbreton.com/es/restaurantes/): Reseñas, retratos de chefs y guías de ciudades para encontrar las mejores hamburguesas del mundo.
+
+## Optional
+
+- [XML sitemap](https://burgerbreton.com/sitemap.xml): Every indexable URL of the site with its hreflang alternates and last update.
+- [Sitemap (English)](https://burgerbreton.com/en/sitemap/): Every page of the site on one page: sections and all published articles.
+- [Plan du site (Français)](https://burgerbreton.com/fr/plan-du-site/): Toutes les pages du site réunies : rubriques et articles publiés.
+- [Mapa del sitio (Español)](https://burgerbreton.com/es/mapa-del-sitio/): Todas las páginas del sitio en una sola: secciones y artículos publicados.
