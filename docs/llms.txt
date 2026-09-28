@@ -27,6 +27,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 
 - [Burger restaurants](https://burgerbreton.com/en/restaurants/): Reviews, chef portraits and city guides to the best burgers worldwide.
 - [Best Burgers in Birmingham (UK): 10 Verified Picks, 2026](https://burgerbreton.com/en/restaurants/best-burgers-birmingham/): Original Patty Men and Hanbao lead a Digbeth double act, and every price, address and review score below carries the date I checked it.
+- [Best Burger Restaurants New York: 6 Verified Picks](https://burgerbreton.com/en/restaurants/best-burgers-new-york/): From a $6.50 smashburger to a 12-patties-per-service A5 wagyu, these are the verified best burger restaurants New York has in 2026.
 - [Best Burgers in Mumbai: 10 Burger Restaurants Worth the Trip (2026)](https://burgerbreton.com/en/restaurants/best-burgers-mumbai/): The 10 best burgers in Mumbai, from Bandra smash burgers to Cafe Universal's five-patty OMG Burger, with addresses, signature burgers and dated prices.
 
 ## Actu burger (Français)
@@ -42,6 +43,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 
 - [Restaurants à burgers](https://burgerbreton.com/fr/restaurants/): Critiques, portraits de chefs et guides de villes pour dénicher les meilleurs burgers du monde.
 - [Meilleur burger à Birmingham : top 10 vérifié 2026](https://burgerbreton.com/fr/restaurants/meilleur-burger-birmingham/): Meilleur burger à Birmingham : 10 adresses vérifiées le 27 septembre 2026, quartiers, burgers à commander et prix en livres.
+- [Meilleurs burgers New York : 6 adresses vérifiées 2026](https://burgerbreton.com/fr/restaurants/meilleurs-burgers-new-york/): Meilleurs burgers à New York en 2026 : wagyu à $35, smash au kimchi et smash à ~$6.50, six adresses vérifiées à Manhattan.
 - [Meilleur burger à Mumbai (Bombay) : les 10 adresses à tester en 2026](https://burgerbreton.com/fr/restaurants/meilleur-burger-mumbai/): Les 10 meilleurs burgers de Mumbai (Bombay), des smash burgers de Bandra à l'OMG Burger à cinq steaks, avec adresses, prix datés et l'explication du « buff ».
 
 ## Actualidad de la hamburguesa (Español)
@@ -57,6 +59,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 
 - [Restaurantes de hamburguesas](https://burgerbreton.com/es/restaurantes/): Reseñas, retratos de chefs y guías de ciudades para encontrar las mejores hamburguesas del mundo.
 - [Las 10 mejores hamburguesas en Birmingham (Inglaterra) 2026](https://burgerbreton.com/es/restaurantes/mejores-hamburguesas-birmingham/): Direcciones verificadas en Digbeth, el centro y el Jewellery Quarter, con la hamburguesa de cada una, precios en libras y la fecha de cada dato.
+- [Mejores hamburguesas en Nueva York: 6 sitios verificados](https://burgerbreton.com/es/restaurantes/mejores-hamburguesas-nueva-york/): Seis direcciones verificadas en 2026, del wagyu de West Village al smash del East Village.
 - [Las 10 mejores hamburguesas en Bombay (Mumbai) en 2026](https://burgerbreton.com/es/restaurantes/mejores-hamburguesas-bombay/): Las 10 mejores hamburgueserías de Bombay (Mumbai) en 2026: direcciones, hamburguesa estrella, precios en rupias y por qué aquí la «ternera» es búfalo.
 
 ## Optional
