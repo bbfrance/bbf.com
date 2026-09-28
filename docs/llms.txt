@@ -26,6 +26,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Burger restaurants (English)
 
 - [Burger restaurants](https://burgerbreton.com/en/restaurants/): Reviews, chef portraits and city guides to the best burgers worldwide.
+- [Best Burgers in Birmingham (UK): 10 Verified Picks, 2026](https://burgerbreton.com/en/restaurants/best-burgers-birmingham/): Original Patty Men and Hanbao lead a Digbeth double act, and every price, address and review score below carries the date I checked it.
 - [Best Burgers in Mumbai: 10 Burger Restaurants Worth the Trip (2026)](https://burgerbreton.com/en/restaurants/best-burgers-mumbai/): The 10 best burgers in Mumbai, from Bandra smash burgers to Cafe Universal's five-patty OMG Burger, with addresses, signature burgers and dated prices.
 
 ## Actu burger (Français)
@@ -40,6 +41,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Restaurants à burgers (Français)
 
 - [Restaurants à burgers](https://burgerbreton.com/fr/restaurants/): Critiques, portraits de chefs et guides de villes pour dénicher les meilleurs burgers du monde.
+- [Meilleur burger à Birmingham : top 10 vérifié 2026](https://burgerbreton.com/fr/restaurants/meilleur-burger-birmingham/): Meilleur burger à Birmingham : 10 adresses vérifiées le 27 septembre 2026, quartiers, burgers à commander et prix en livres.
 - [Meilleur burger à Mumbai (Bombay) : les 10 adresses à tester en 2026](https://burgerbreton.com/fr/restaurants/meilleur-burger-mumbai/): Les 10 meilleurs burgers de Mumbai (Bombay), des smash burgers de Bandra à l'OMG Burger à cinq steaks, avec adresses, prix datés et l'explication du « buff ».
 
 ## Actualidad de la hamburguesa (Español)
@@ -54,6 +56,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Restaurantes de hamburguesas (Español)
 
 - [Restaurantes de hamburguesas](https://burgerbreton.com/es/restaurantes/): Reseñas, retratos de chefs y guías de ciudades para encontrar las mejores hamburguesas del mundo.
+- [Las 10 mejores hamburguesas en Birmingham (Inglaterra) 2026](https://burgerbreton.com/es/restaurantes/mejores-hamburguesas-birmingham/): Direcciones verificadas en Digbeth, el centro y el Jewellery Quarter, con la hamburguesa de cada una, precios en libras y la fecha de cada dato.
 - [Las 10 mejores hamburguesas en Bombay (Mumbai) en 2026](https://burgerbreton.com/es/restaurantes/mejores-hamburguesas-bombay/): Las 10 mejores hamburgueserías de Bombay (Mumbai) en 2026: direcciones, hamburguesa estrella, precios en rupias y por qué aquí la «ternera» es búfalo.
 
 ## Optional
