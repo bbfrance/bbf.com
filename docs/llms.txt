@@ -27,6 +27,15 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Burger restaurants (English)
 
 - [Burger restaurants](https://burgerbreton.com/en/restaurants/): Reviews, chef portraits and city guides to the best burgers worldwide.
+- [Best Burgers in New York: Smash to Wagyu](https://burgerbreton.com/en/restaurants/new-york/): The best burgers in New York, from a $6.50 East Village smash to A5 wagyu in the West Village, with dated, verified NYC burger guides.
+- [Best Burgers in Miami: Smash to Cuban Frita](https://burgerbreton.com/en/restaurants/miami/): The best burgers in Miami, from Wynwood smash burgers to an authentic Cuban frita on SW 8th St, in a dated, verified Miami burger guide.
+- [Best Burgers in Birmingham, UK: Smash and Halal](https://burgerbreton.com/en/restaurants/birmingham/): Best burgers in Birmingham, UK: Digbeth smash patties, Ladypool Road halal kitchens and £12 city-centre burgers, every address checked.
+- [Best Burgers in Bordeaux: Neighbourhood Guide](https://burgerbreton.com/en/restaurants/bordeaux/): Where to find the best burgers in Bordeaux: seven quartiers from Saint-Pierre to Chartrons, and a dated guide with no invented addresses.
+- [Best Burgers in Bangkok: Verified City Guide](https://burgerbreton.com/en/restaurants/bangkok/): Best burgers in Bangkok: a 24/7 Signature Burger in Silom, an American gourmet burger brand since 2013 and a THB 380 lunch set, checked September 2026.
+- [Best Burgers in Mumbai: Bandra, Fort and Colaba](https://burgerbreton.com/en/restaurants/mumbai/): Best burgers in Mumbai: buff smash burgers in Bandra, the five-patty OMG Burger in Fort, dated INR prices and verified addresses.
+- [Best Burgers in Perth: Suburb-by-Suburb Guide](https://burgerbreton.com/en/restaurants/perth/): The best burgers in Perth, from Fremantle diners to Leederville smash burgers and a Guildford roadside kitchen trading since 1946. A dated, sourced guide.
+- [Best Burgers in Miami: 10 Spots to Try in 2026](https://burgerbreton.com/en/restaurants/best-burgers-miami/): From Wynwood smash burgers to an authentic Cuban frita, here are ten reliable addresses across Greater Miami.
+- [Best Burger in Bordeaux: My 2026 Method Before the Top 10](https://burgerbreton.com/en/restaurants/best-burger-bordeaux/): No verified winner yet on 29 September 2026 — my quartiers, tests and next checks, with no invented names.
 - [Best Burgers Perth: 8 Verified Spots to Try](https://burgerbreton.com/en/restaurants/best-burgers-perth/): From Fremantle diners to Leederville smash burgers, these are the verified names to shortlist for the best burgers Perth has right now.
 - [Best Burgers in Bangkok: 3 Verified Spots to Start](https://burgerbreton.com/en/restaurants/best-burgers-bangkok/): Best burgers in Bangkok: 3 verified spots led by a 24/7 Silom classic, checked September 2026.
 - [Best Burgers in Birmingham (UK): 10 Verified Picks, 2026](https://burgerbreton.com/en/restaurants/best-burgers-birmingham/): Original Patty Men and Hanbao lead a Digbeth double act, and every price, address and review score below carries the date I checked it.
@@ -46,6 +55,13 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Restaurants à burgers (Français)
 
 - [Restaurants à burgers](https://burgerbreton.com/fr/restaurants/): Critiques, portraits de chefs et guides de villes pour dénicher les meilleurs burgers du monde.
+- [Meilleurs burgers à New York : smash et wagyu](https://burgerbreton.com/fr/restaurants/new-york/): Meilleurs burgers à New York : du smash à 6,50 $ de l'East Village au wagyu A5 du West Village, dans nos guides datés et vérifiés.
+- [Meilleur burger à Birmingham : smash et halal](https://burgerbreton.com/fr/restaurants/birmingham/): Meilleur burger à Birmingham (Angleterre) : smash à Digbeth, halal sur Ladypool Road, burgers à 12 £ en centre-ville. Adresses vérifiées.
+- [Meilleur burger à Bordeaux : guide par quartier](https://burgerbreton.com/fr/restaurants/bordeaux/): Meilleur burger à Bordeaux : les sept quartiers, de Saint-Pierre aux Chartrons, et un guide daté qui ne cite aucune adresse non vérifiée.
+- [Meilleurs burgers à Bangkok : le guide vérifié](https://burgerbreton.com/fr/restaurants/bangkok/): Meilleurs burgers à Bangkok : un Signature Burger servi 24h/24 à Silom, un lunch set à 380 THB et trois noms vérifiés le 29 septembre 2026.
+- [Meilleur burger à Mumbai (Bombay) : où manger](https://burgerbreton.com/fr/restaurants/mumbai/): Meilleur burger à Mumbai (Bombay) : smash au buffle à Bandra, OMG Burger à cinq steaks à Fort, prix en roupies datés et adresses vérifiées.
+- [Meilleur burger à Perth : Fremantle, Leederville](https://burgerbreton.com/fr/restaurants/perth/): Meilleur burger à Perth : smash à Leederville, diner à Fremantle, cantine routière de 1946 à Guildford. Un guide daté et sourcé.
+- [Meilleur burger à Bordeaux : où manger en 2026 ?](https://burgerbreton.com/fr/restaurants/meilleur-burger-bordeaux/): Meilleur burger à Bordeaux : quartiers, méthode 2026 et exigences smash avant mon top 10 vérifié.
 - [Meilleur burger à Perth : 8 adresses vérifiées](https://burgerbreton.com/fr/restaurants/meilleur-burger-perth/): De Fremantle au CBD, huit enseignes citées par la presse locale pour leur smash, leur wagyu et leur poulet frit.
 - [Meilleurs burgers Bangkok : où manger en 2026](https://burgerbreton.com/fr/restaurants/meilleurs-burgers-bangkok/): Meilleurs burgers à Bangkok : 3 noms vérifiés le 29 septembre 2026 et un lunch set à 380 THB.
 - [Meilleur burger à Birmingham : top 10 vérifié 2026](https://burgerbreton.com/fr/restaurants/meilleur-burger-birmingham/): Meilleur burger à Birmingham : 10 adresses vérifiées le 27 septembre 2026, quartiers, burgers à commander et prix en livres.
@@ -65,6 +81,15 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Restaurantes de hamburguesas (Español)
 
 - [Restaurantes de hamburguesas](https://burgerbreton.com/es/restaurantes/): Reseñas, retratos de chefs y guías de ciudades para encontrar las mejores hamburguesas del mundo.
+- [Mejores hamburguesas en Nueva York: la guía](https://burgerbreton.com/es/restaurantes/nueva-york/): Las mejores hamburguesas en Nueva York: del smash de 6,50 dólares en East Village al wagyu A5 de West Village, con guías verificadas.
+- [Mejores hamburguesas en Miami: smash y frita](https://burgerbreton.com/es/restaurantes/miami/): Las mejores hamburguesas en Miami: smash en Wynwood, carne madurada en MiMo y frita cubana en la Calle Ocho, con direcciones verificadas.
+- [Mejores hamburguesas en Birmingham (Inglaterra)](https://burgerbreton.com/es/restaurantes/birmingham/): Las mejores hamburguesas en Birmingham, Inglaterra: smash en Digbeth, halal en Ladypool Road y hamburguesas de 12 £ en el centro.
+- [Mejores hamburguesas en Burdeos: guía por barrios](https://burgerbreton.com/es/restaurantes/burdeos/): Mejores hamburguesas en Burdeos por barrios, del casco antiguo a Chartrons, con una guía fechada que no inventa direcciones ni precios.
+- [Mejores hamburguesas en Bangkok: guía verificada](https://burgerbreton.com/es/restaurantes/bangkok/): Mejores hamburguesas en Bangkok: una Signature Burger 24/7 en Silom, menú de mediodía a 380 THB y nombres verificados el 29/09/2026.
+- [Mejores hamburguesas en Bombay (Mumbai): guía](https://burgerbreton.com/es/restaurantes/bombay/): Mejores hamburguesas en Bombay (Mumbai): smash de búfalo en Bandra, la OMG Burger de cinco pisos en Fort y precios en rupias con fecha.
+- [Mejores hamburguesas en Perth: guía por barrios](https://burgerbreton.com/es/restaurantes/perth/): Mejores hamburguesas en Perth: smash en Leederville, diner en Fremantle y un puesto de carretera de 1946 en Guildford. Guía fechada.
+- [Mejores hamburguesas en Miami: 10 sitios verificados](https://burgerbreton.com/es/restaurantes/mejores-hamburguesas-miami/): De la smash de Wynwood a la frita cubana de la Calle Ocho, diez direcciones comprobadas en Time Out Miami.
+- [Mejor hamburguesa en Burdeos: dónde comer en 2026](https://burgerbreton.com/es/restaurantes/mejor-hamburguesa-burdeos/): Mejor hamburguesa en Burdeos: guía 2026 por barrios, método verificado y sin ganadores inventados.
 - [Mejores hamburguesas en Perth: 8 sitios verificados](https://burgerbreton.com/es/restaurantes/mejores-hamburguesas-perth/): Dónde comer hamburguesa en Perth y Fremantle según la guía Broadsheet 2024 y webs oficiales.
 - [Mejores hamburguesas en Bangkok: dónde comer en 2026](https://burgerbreton.com/es/restaurantes/mejores-hamburguesas-bangkok/): Guía verificada para comer hamburguesa en Bangkok con tres nombres comprobados en 2026 y método transparente.
 - [Las 10 mejores hamburguesas en Birmingham (Inglaterra) 2026](https://burgerbreton.com/es/restaurantes/mejores-hamburguesas-birmingham/): Direcciones verificadas en Digbeth, el centro y el Jewellery Quarter, con la hamburguesa de cada una, precios en libras y la fecha de cada dato.
