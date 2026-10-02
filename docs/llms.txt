@@ -29,6 +29,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 
 - [Burger recipes](https://burgerbreton.com/en/recipes/): Burger recipes and techniques, from the patty to the bun, tested in our kitchen with exact quantities and timings.
 - [MOS Burger Teriyaki Burger Copycat Recipe (2 Burgers)](https://burgerbreton.com/en/recipes/mos-burger-teriyaki-burger-recipe/): My home copy of Japan's Shin-Tobikiri egg-and-cheese teriyaki burger, built from MOS Burger's May 2024 press release.
+- [Triple Meat Whataburger Copycat Recipe (2 Burgers)](https://burgerbreton.com/en/recipes/triple-meat-whataburger-copycat/): Triple Meat Whataburger copycat for 2: three 80/20 patties, mustard, pickles and toasted 5-inch bun.
 - [Homemade Burger Buns: Soft Brioche Buns Recipe](https://burgerbreton.com/en/recipes/homemade-burger-buns-recipe/): Tested homemade burger buns recipe: 8 golden, pillowy brioche buns in 3 hours, with exact weights, proofing times and oven temperatures in °F and °C.
 
 ## Burger restaurants (English)
@@ -36,6 +37,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 - [Burger restaurants](https://burgerbreton.com/en/restaurants/): Reviews, chef portraits and city guides to the best burgers worldwide.
 - [Best Burgers in New York: Smash to Wagyu](https://burgerbreton.com/en/restaurants/new-york/): The best burgers in New York, from a $6.50 East Village smash to A5 wagyu in the West Village, with dated, verified NYC burger guides.
 - [Best Burgers in Miami: Smash to Cuban Frita](https://burgerbreton.com/en/restaurants/miami/): The best burgers in Miami, from Wynwood smash burgers to an authentic Cuban frita on SW 8th St, in a dated, verified Miami burger guide.
+- [Best Burgers in London: Brixton to Soho](https://burgerbreton.com/en/restaurants/london/): Best burgers in London: the 2011 burger boom from Brixton Village to Marylebone, street-food markets and the 2026 closures, in dated guides.
 - [Best Burgers in Birmingham, UK: Smash and Halal](https://burgerbreton.com/en/restaurants/birmingham/): Best burgers in Birmingham, UK: Digbeth smash patties, Ladypool Road halal kitchens and £12 city-centre burgers, every address checked.
 - [Best Burgers in Bordeaux: Neighbourhood Guide](https://burgerbreton.com/en/restaurants/bordeaux/): Where to find the best burgers in Bordeaux: seven quartiers from Saint-Pierre to Chartrons, and a dated guide with no invented addresses.
 - [Best Burgers in Toulouse: Capitole to Carmes](https://burgerbreton.com/en/restaurants/toulouse/): Best burgers in Toulouse: where to look around the Capitole, Carmes, Saint-Cyprien and the Victor-Hugo market, with duck and Lautrec pink garlic.
@@ -43,6 +45,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 - [Best Burgers in Mumbai: Bandra, Fort and Colaba](https://burgerbreton.com/en/restaurants/mumbai/): Best burgers in Mumbai: buff smash burgers in Bandra, the five-patty OMG Burger in Fort, dated INR prices and verified addresses.
 - [Best Burgers in Perth: Suburb-by-Suburb Guide](https://burgerbreton.com/en/restaurants/perth/): The best burgers in Perth, from Fremantle diners to Leederville smash burgers and a Guildford roadside kitchen trading since 1946. A dated, sourced guide.
 - [Best Burger Toulouse: 1 Verified Pick for 2026](https://burgerbreton.com/en/restaurants/best-burger-toulouse/): I could verify only one Toulouse burger address for 2026, so I am not publishing an unverified top 10.
+- [Best Burgers London: 10 Top Spots to Try in 2026](https://burgerbreton.com/en/restaurants/best-burgers-london/): I ate across Brixton, Soho, Shoreditch and Covent Garden to find where London does burgers best.
 - [Best Burgers in Miami: 10 Spots to Try in 2026](https://burgerbreton.com/en/restaurants/best-burgers-miami/): From Wynwood smash burgers to an authentic Cuban frita, here are ten reliable addresses across Greater Miami.
 - [Best Burger in Bordeaux: My 2026 Method Before the Top 10](https://burgerbreton.com/en/restaurants/best-burger-bordeaux/): No verified winner yet on 29 September 2026 — my quartiers, tests and next checks, with no invented names.
 - [Best Burgers Perth: 8 Verified Spots to Try](https://burgerbreton.com/en/restaurants/best-burgers-perth/): From Fremantle diners to Leederville smash burgers, these are the verified names to shortlist for the best burgers Perth has right now.
@@ -60,19 +63,24 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 
 - [Recettes de burgers](https://burgerbreton.com/fr/recettes/): Nos recettes et techniques de burgers, du steak haché au pain, testées dans notre cuisine avec les quantités et les temps de cuisson exacts.
 - [Recette Tobikiri Teriyaki Burger MOS maison](https://burgerbreton.com/fr/recettes/tobikiri-teriyaki-burger-mos-maison/): Je recrée à la maison le Shin-Tobikiri œuf fondant et fromage Hokkaido, édition limitée japonaise de 2024, avec steak, sauce miso-soja et œuf mollet.
+- [Triple Meat Whataburger : recette triple steak maison](https://burgerbreton.com/fr/recettes/triple-meat-whataburger-maison/): Refaites le Triple Meat Whataburger à la maison : 6 steaks 80/20, moutarde seule, grand pain toasté, sans fromage.
 - [Pain à burger maison : la recette des buns briochés moelleux](https://burgerbreton.com/fr/recettes/recette-pain-burger-maison/): Recette de pain à burger maison testée : 8 buns briochés dorés et moelleux en 3 h, avec les grammages exacts, les temps de pousse et la cuisson en °C et °F.
 
 ## Restaurants à burgers (Français)
 
 - [Restaurants à burgers](https://burgerbreton.com/fr/restaurants/): Critiques, portraits de chefs et guides de villes pour dénicher les meilleurs burgers du monde.
 - [Meilleurs burgers à New York : smash et wagyu](https://burgerbreton.com/fr/restaurants/new-york/): Meilleurs burgers à New York : du smash à 6,50 $ de l'East Village au wagyu A5 du West Village, dans nos guides datés et vérifiés.
+- [Meilleurs burgers à Miami : du smash à la frita](https://burgerbreton.com/fr/restaurants/miami/): Meilleurs burgers à Miami : smash de Wynwood, cheeseburger dry-aged à MiMo et vraie frita cubana sur la SW 8th St, adresses vérifiées en 2026.
+- [Meilleur burger à Londres : de Brixton à Soho](https://burgerbreton.com/fr/restaurants/londres/): Meilleur burger à Londres : la vague de 2011, de Brixton Village à Marylebone, les marchés de street food et les fermetures de 2026.
 - [Meilleur burger à Birmingham : smash et halal](https://burgerbreton.com/fr/restaurants/birmingham/): Meilleur burger à Birmingham (Angleterre) : smash à Digbeth, halal sur Ladypool Road, burgers à 12 £ en centre-ville. Adresses vérifiées.
 - [Meilleur burger à Bordeaux : guide par quartier](https://burgerbreton.com/fr/restaurants/bordeaux/): Meilleur burger à Bordeaux : les sept quartiers, de Saint-Pierre aux Chartrons, et un guide daté qui ne cite aucune adresse non vérifiée.
 - [Meilleur burger à Toulouse : Capitole, Carmes](https://burgerbreton.com/fr/restaurants/toulouse/): Meilleur burger à Toulouse : où chercher autour du Capitole, aux Carmes, à Saint-Cyprien et au marché Victor-Hugo, avec canard et ail rose de Lautrec.
 - [Meilleurs burgers à Bangkok : le guide vérifié](https://burgerbreton.com/fr/restaurants/bangkok/): Meilleurs burgers à Bangkok : un Signature Burger servi 24h/24 à Silom, un lunch set à 380 THB et trois noms vérifiés le 29 septembre 2026.
 - [Meilleur burger à Mumbai (Bombay) : où manger](https://burgerbreton.com/fr/restaurants/mumbai/): Meilleur burger à Mumbai (Bombay) : smash au buffle à Bandra, OMG Burger à cinq steaks à Fort, prix en roupies datés et adresses vérifiées.
 - [Meilleur burger à Perth : Fremantle, Leederville](https://burgerbreton.com/fr/restaurants/perth/): Meilleur burger à Perth : smash à Leederville, diner à Fremantle, cantine routière de 1946 à Guildford. Un guide daté et sourcé.
+- [Meilleur burger Miami : 10 adresses où manger en 2026](https://burgerbreton.com/fr/restaurants/meilleur-burger-miami/): Smash à Wynwood, dry-aged à MiMo et frita cubana à Little Havana : mon top 10 vérifié avec adresses et burgers signatures.
 - [Meilleur burger Toulouse : 1 adresse vérifiée en 2026](https://burgerbreton.com/fr/restaurants/meilleur-burger-toulouse/): Une seule adresse vérifiée ouverte en 2026 à Wilson, et une méthode claire avant un vrai top 10.
+- [Meilleurs burgers Londres : 10 adresses où manger en 2026](https://burgerbreton.com/fr/restaurants/meilleurs-burgers-londres/): J’ai croisé les guides, les prix affichés et les sites officiels pour répondre à la question où manger un burger à Londres, de Brixton à Shoreditch.
 - [Meilleur burger à Bordeaux : où manger en 2026 ?](https://burgerbreton.com/fr/restaurants/meilleur-burger-bordeaux/): Meilleur burger à Bordeaux : quartiers, méthode 2026 et exigences smash avant mon top 10 vérifié.
 - [Meilleur burger à Perth : 8 adresses vérifiées](https://burgerbreton.com/fr/restaurants/meilleur-burger-perth/): De Fremantle au CBD, huit enseignes citées par la presse locale pour leur smash, leur wagyu et leur poulet frit.
 - [Meilleurs burgers Bangkok : où manger en 2026](https://burgerbreton.com/fr/restaurants/meilleurs-burgers-bangkok/): Meilleurs burgers à Bangkok : 3 noms vérifiés le 29 septembre 2026 et un lunch set à 380 THB.
@@ -89,6 +97,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 
 - [Recetas de hamburguesas](https://burgerbreton.com/es/recetas/): Recetas y técnicas de hamburguesas, de la carne al pan, probadas en nuestra cocina con cantidades y tiempos exactos.
 - [Receta hamburguesa teriyaki estilo MOS Burger (2 burgers)](https://burgerbreton.com/es/recetas/hamburguesa-teriyaki-mos-burger/): Mi versión casera para 2 burgers del Shin-Tobikiri Torottama Teriyaki de Hokkaido Cheese, con salsa de soja y miso, huevo meloso y queso fundente.
+- [Triple Meat Whataburger casera: receta paso a paso](https://burgerbreton.com/es/recetas/triple-meat-whataburger-casera/): Imito en casa el triple de Whataburger con 3 filetes, mostaza y pan tostado, sin queso por defecto.
 - [Pan de hamburguesa casero: receta de bollos brioche tiernos](https://burgerbreton.com/es/recetas/receta-pan-de-hamburguesa-casero/): Receta probada de pan de hamburguesa casero: 8 bollos brioche dorados y esponjosos en 3 h, con pesos exactos, tiempos de levado y horno en °C y °F.
 
 ## Restaurantes de hamburguesas (Español)
@@ -96,6 +105,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 - [Restaurantes de hamburguesas](https://burgerbreton.com/es/restaurantes/): Reseñas, retratos de chefs y guías de ciudades para encontrar las mejores hamburguesas del mundo.
 - [Mejores hamburguesas en Nueva York: la guía](https://burgerbreton.com/es/restaurantes/nueva-york/): Las mejores hamburguesas en Nueva York: del smash de 6,50 dólares en East Village al wagyu A5 de West Village, con guías verificadas.
 - [Mejores hamburguesas en Miami: smash y frita](https://burgerbreton.com/es/restaurantes/miami/): Las mejores hamburguesas en Miami: smash en Wynwood, carne madurada en MiMo y frita cubana en la Calle Ocho, con direcciones verificadas.
+- [Mejores hamburguesas en Londres: guía por barrios](https://burgerbreton.com/es/restaurantes/londres/): Las mejores hamburguesas en Londres: el boom de 2011 de Brixton Village a Marylebone, los mercados de street food y los cierres de 2026.
 - [Mejores hamburguesas en Birmingham (Inglaterra)](https://burgerbreton.com/es/restaurantes/birmingham/): Las mejores hamburguesas en Birmingham, Inglaterra: smash en Digbeth, halal en Ladypool Road y hamburguesas de 12 £ en el centro.
 - [Mejores hamburguesas en Burdeos: guía por barrios](https://burgerbreton.com/es/restaurantes/burdeos/): Mejores hamburguesas en Burdeos por barrios, del casco antiguo a Chartrons, con una guía fechada que no inventa direcciones ni precios.
 - [Mejores hamburguesas en Toulouse: Capitole](https://burgerbreton.com/es/restaurantes/toulouse/): Las mejores hamburguesas en Toulouse: dónde buscar en el Capitole, Carmes, Saint-Cyprien y el mercado Victor-Hugo, con pato y ajo rosa de Lautrec.
@@ -103,6 +113,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 - [Mejores hamburguesas en Bombay (Mumbai): guía](https://burgerbreton.com/es/restaurantes/bombay/): Mejores hamburguesas en Bombay (Mumbai): smash de búfalo en Bandra, la OMG Burger de cinco pisos en Fort y precios en rupias con fecha.
 - [Mejores hamburguesas en Perth: guía por barrios](https://burgerbreton.com/es/restaurantes/perth/): Mejores hamburguesas en Perth: smash en Leederville, diner en Fremantle y un puesto de carretera de 1946 en Guildford. Guía fechada.
 - [Mejor hamburguesa en Toulouse: guía verificada 2026](https://burgerbreton.com/es/restaurantes/mejor-hamburguesa-toulouse/): Solo publico lo verificado en 2026 para comer hamburguesa en Toulouse centro, con metodología abierta.
+- [Las 10 mejores hamburguesas de Londres en 2026](https://burgerbreton.com/es/restaurantes/mejores-hamburguesas-londres/): Diez direcciones para encontrar las mejores hamburguesas de Londres, del smash de Shoreditch al clásico de Brixton.
 - [Mejores hamburguesas en Miami: 10 sitios verificados](https://burgerbreton.com/es/restaurantes/mejores-hamburguesas-miami/): De la smash de Wynwood a la frita cubana de la Calle Ocho, diez direcciones comprobadas en Time Out Miami.
 - [Mejor hamburguesa en Burdeos: dónde comer en 2026](https://burgerbreton.com/es/restaurantes/mejor-hamburguesa-burdeos/): Mejor hamburguesa en Burdeos: guía 2026 por barrios, método verificado y sin ganadores inventados.
 - [Mejores hamburguesas en Perth: 8 sitios verificados](https://burgerbreton.com/es/restaurantes/mejores-hamburguesas-perth/): Dónde comer hamburguesa en Perth y Fremantle según la guía Broadsheet 2024 y webs oficiales.
