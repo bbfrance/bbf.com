@@ -28,6 +28,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Burger recipes (English)
 
 - [Burger recipes](https://burgerbreton.com/en/recipes/): Burger recipes and techniques, from the patty to the bun, tested in our kitchen with exact quantities and timings.
+- [MOS Burger Teriyaki Burger Copycat Recipe (2 Burgers)](https://burgerbreton.com/en/recipes/mos-burger-teriyaki-burger-recipe/): My home copy of Japan's Shin-Tobikiri egg-and-cheese teriyaki burger, built from MOS Burger's May 2024 press release.
 - [Homemade Burger Buns: Soft Brioche Buns Recipe](https://burgerbreton.com/en/recipes/homemade-burger-buns-recipe/): Tested homemade burger buns recipe: 8 golden, pillowy brioche buns in 3 hours, with exact weights, proofing times and oven temperatures in °F and °C.
 
 ## Burger restaurants (English)
@@ -58,6 +59,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Recettes de burgers (Français)
 
 - [Recettes de burgers](https://burgerbreton.com/fr/recettes/): Nos recettes et techniques de burgers, du steak haché au pain, testées dans notre cuisine avec les quantités et les temps de cuisson exacts.
+- [Recette Tobikiri Teriyaki Burger MOS maison](https://burgerbreton.com/fr/recettes/tobikiri-teriyaki-burger-mos-maison/): Je recrée à la maison le Shin-Tobikiri œuf fondant et fromage Hokkaido, édition limitée japonaise de 2024, avec steak, sauce miso-soja et œuf mollet.
 - [Pain à burger maison : la recette des buns briochés moelleux](https://burgerbreton.com/fr/recettes/recette-pain-burger-maison/): Recette de pain à burger maison testée : 8 buns briochés dorés et moelleux en 3 h, avec les grammages exacts, les temps de pousse et la cuisson en °C et °F.
 
 ## Restaurants à burgers (Français)
@@ -86,6 +88,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Recetas de hamburguesas (Español)
 
 - [Recetas de hamburguesas](https://burgerbreton.com/es/recetas/): Recetas y técnicas de hamburguesas, de la carne al pan, probadas en nuestra cocina con cantidades y tiempos exactos.
+- [Receta hamburguesa teriyaki estilo MOS Burger (2 burgers)](https://burgerbreton.com/es/recetas/hamburguesa-teriyaki-mos-burger/): Mi versión casera para 2 burgers del Shin-Tobikiri Torottama Teriyaki de Hokkaido Cheese, con salsa de soja y miso, huevo meloso y queso fundente.
 - [Pan de hamburguesa casero: receta de bollos brioche tiernos](https://burgerbreton.com/es/recetas/receta-pan-de-hamburguesa-casero/): Receta probada de pan de hamburguesa casero: 8 bollos brioche dorados y esponjosos en 3 h, con pesos exactos, tiempos de levado y horno en °C y °F.
 
 ## Restaurantes de hamburguesas (Español)
