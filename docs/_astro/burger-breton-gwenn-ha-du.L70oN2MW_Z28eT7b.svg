@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img" aria-labelledby="title">
+  <title id="title">A burger topped with a Breton Gwenn-ha-Du flag</title>
+  <rect width="800" height="520" fill="#f6efe2"/>
+  <ellipse cx="400" cy="470" rx="250" ry="22" fill="#e4d8c3"/>
+  <line x1="446" y1="300" x2="452" y2="40" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+  <g>
+    <rect x="452" y="46" width="168" height="112" fill="#ffffff" stroke="#111111" stroke-width="2"/>
+    <rect x="452" y="46.00" width="168" height="12.44" fill="#111111"/>
+    <rect x="452" y="70.89" width="168" height="12.44" fill="#111111"/>
+    <rect x="452" y="95.78" width="168" height="12.44" fill="#111111"/>
+    <rect x="452" y="120.67" width="168" height="12.44" fill="#111111"/>
+    <rect x="452" y="145.56" width="168" height="12.44" fill="#111111"/>
+    <rect x="452" y="46" width="62.22" height="62.22" fill="#ffffff"/>
+    <path transform="translate(464.44 60.93)" d="M0 -5.5 a1.6 1.6 0 1 1 0.01 0 M-3 -3.2 a1.4 1.4 0 1 1 0.01 0 M3 -3.2 a1.4 1.4 0 1 1 0.01 0 M0 -2.5 C-1.2 1 -2.4 3.5 -3 6 L-1 4.6 L0 7 L1 4.6 L3 6 C2.4 3.5 1.2 1 0 -2.5Z" fill="#111111"/>
+    <path transform="translate(476.89 60.93)" d="M0 -5.5 a1.6 1.6 0 1 1 0.01 0 M-3 -3.2 a1.4 1.4 0 1 1 0.01 0 M3 -3.2 a1.4 1.4 0 1 1 0.01 0 M0 -2.5 C-1.2 1 -2.4 3.5 -3 6 L-1 4.6 L0 7 L1 4.6 L3 6 C2.4 3.5 1.2 1 0 -2.5Z" fill="#111111"/>
+    <path transform="translate(489.33 60.93)" d="M0 -5.5 a1.6 1.6 0 1 1 0.01 0 M-3 -3.2 a1.4 1.4 0 1 1 0.01 0 M3 -3.2 a1.4 1.4 0 1 1 0.01 0 M0 -2.5 C-1.2 1 -2.4 3.5 -3 6 L-1 4.6 L0 7 L1 4.6 L3 6 C2.4 3.5 1.2 1 0 -2.5Z" fill="#111111"/>
+    <path transform="translate(501.78 60.93)" d="M0 -5.5 a1.6 1.6 0 1 1 0.01 0 M-3 -3.2 a1.4 1.4 0 1 1 0.01 0 M3 -3.2 a1.4 1.4 0 1 1 0.01 0 M0 -2.5 C-1.2 1 -2.4 3.5 -3 6 L-1 4.6 L0 7 L1 4.6 L3 6 C2.4 3.5 1.2 1 0 -2.5Z" fill="#111111"/>
+    <path transform="translate(467.56 78.98)" d="M0 -5.5 a1.6 1.6 0 1 1 0.01 0 M-3 -3.2 a1.4 1.4 0 1 1 0.01 0 M3 -3.2 a1.4 1.4 0 1 1 0.01 0 M0 -2.5 C-1.2 1 -2.4 3.5 -3 6 L-1 4.6 L0 7 L1 4.6 L3 6 C2.4 3.5 1.2 1 0 -2.5Z" fill="#111111"/>
+    <path transform="translate(483.11 78.98)" d="M0 -5.5 a1.6 1.6 0 1 1 0.01 0 M-3 -3.2 a1.4 1.4 0 1 1 0.01 0 M3 -3.2 a1.4 1.4 0 1 1 0.01 0 M0 -2.5 C-1.2 1 -2.4 3.5 -3 6 L-1 4.6 L0 7 L1 4.6 L3 6 C2.4 3.5 1.2 1 0 -2.5Z" fill="#111111"/>
+    <path transform="translate(498.67 78.98)" d="M0 -5.5 a1.6 1.6 0 1 1 0.01 0 M-3 -3.2 a1.4 1.4 0 1 1 0.01 0 M3 -3.2 a1.4 1.4 0 1 1 0.01 0 M0 -2.5 C-1.2 1 -2.4 3.5 -3 6 L-1 4.6 L0 7 L1 4.6 L3 6 C2.4 3.5 1.2 1 0 -2.5Z" fill="#111111"/>
+    <path transform="translate(464.44 97.02)" d="M0 -5.5 a1.6 1.6 0 1 1 0.01 0 M-3 -3.2 a1.4 1.4 0 1 1 0.01 0 M3 -3.2 a1.4 1.4 0 1 1 0.01 0 M0 -2.5 C-1.2 1 -2.4 3.5 -3 6 L-1 4.6 L0 7 L1 4.6 L3 6 C2.4 3.5 1.2 1 0 -2.5Z" fill="#111111"/>
+    <path transform="translate(476.89 97.02)" d="M0 -5.5 a1.6 1.6 0 1 1 0.01 0 M-3 -3.2 a1.4 1.4 0 1 1 0.01 0 M3 -3.2 a1.4 1.4 0 1 1 0.01 0 M0 -2.5 C-1.2 1 -2.4 3.5 -3 6 L-1 4.6 L0 7 L1 4.6 L3 6 C2.4 3.5 1.2 1 0 -2.5Z" fill="#111111"/>
+    <path transform="translate(489.33 97.02)" d="M0 -5.5 a1.6 1.6 0 1 1 0.01 0 M-3 -3.2 a1.4 1.4 0 1 1 0.01 0 M3 -3.2 a1.4 1.4 0 1 1 0.01 0 M0 -2.5 C-1.2 1 -2.4 3.5 -3 6 L-1 4.6 L0 7 L1 4.6 L3 6 C2.4 3.5 1.2 1 0 -2.5Z" fill="#111111"/>
+    <path transform="translate(501.78 97.02)" d="M0 -5.5 a1.6 1.6 0 1 1 0.01 0 M-3 -3.2 a1.4 1.4 0 1 1 0.01 0 M3 -3.2 a1.4 1.4 0 1 1 0.01 0 M0 -2.5 C-1.2 1 -2.4 3.5 -3 6 L-1 4.6 L0 7 L1 4.6 L3 6 C2.4 3.5 1.2 1 0 -2.5Z" fill="#111111"/>
+    <rect x="452" y="46" width="168" height="112" fill="none" stroke="#111111" stroke-width="2"/>
+  </g>
+  <path d="M190 420 h420 a20 20 0 0 1 20 20 v6 a24 24 0 0 1 -24 24 h-412 a24 24 0 0 1 -24 -24 v-6 a20 20 0 0 1 20 -20z" fill="#d9913f"/>
+  <path d="M176 396 h448 a14 14 0 0 1 0 28 h-448 a14 14 0 0 1 0 -28z" fill="#5b3420"/>
+  <path d="M182 372 h436 a16 16 0 0 1 16 16 v6 a10 10 0 0 1 -10 10 h-448 a10 10 0 0 1 -10 -10 v-6 a16 16 0 0 1 16 -16z" fill="#6e3f25"/>
+  <path d="M168 360 L632 360 L604 404 L560 372 L500 410 L440 372 L380 406 L320 372 L262 404 L212 372 L178 398z" fill="#f4c430"/>
+  <path d="M160 352 c30 -18 50 10 80 -6 s50 -14 80 2 s50 -16 80 0 s50 -14 80 0 s50 -16 80 2 s40 -10 60 4 l-6 16 h-448z" fill="#6fae3b"/>
+  <path d="M168 340 c0 -110 104 -168 232 -168 s232 58 232 168 a12 12 0 0 1 -12 12 h-440 a12 12 0 0 1 -12 -12z" fill="#e3a14a"/>
+  <path d="M196 318 c10 -76 92 -124 204 -124" fill="none" stroke="#f0bf72" stroke-width="12" stroke-linecap="round"/>
+    <ellipse cx="300" cy="250" rx="7" ry="3.2" transform="rotate(-20 300 250)" fill="#fff4d6"/>
+    <ellipse cx="350" cy="226" rx="7" ry="3.2" transform="rotate(10 350 226)" fill="#fff4d6"/>
+    <ellipse cx="400" cy="218" rx="7" ry="3.2" transform="rotate(-5 400 218)" fill="#fff4d6"/>
+    <ellipse cx="452" cy="224" rx="7" ry="3.2" transform="rotate(15 452 224)" fill="#fff4d6"/>
+    <ellipse cx="500" cy="244" rx="7" ry="3.2" transform="rotate(-12 500 244)" fill="#fff4d6"/>
+    <ellipse cx="330" cy="282" rx="7" ry="3.2" transform="rotate(25 330 282)" fill="#fff4d6"/>
+    <ellipse cx="392" cy="256" rx="7" ry="3.2" transform="rotate(-30 392 256)" fill="#fff4d6"/>
+    <ellipse cx="446" cy="262" rx="7" ry="3.2" transform="rotate(5 446 262)" fill="#fff4d6"/>
+    <ellipse cx="486" cy="290" rx="7" ry="3.2" transform="rotate(-18 486 290)" fill="#fff4d6"/>
+    <ellipse cx="274" cy="292" rx="7" ry="3.2" transform="rotate(12 274 292)" fill="#fff4d6"/>
+</svg>

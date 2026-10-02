@@ -14,6 +14,12 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 - [Burger Breton (Français)](https://burgerbreton.com/fr/): Actu, recettes et critiques de restaurants : tout sur le burger sous toutes ses formes, des chefs et des techniques jusqu'aux meilleures adresses du monde.
 - [Burger Breton (Español)](https://burgerbreton.com/es/): Actualidad, recetas y reseñas de restaurantes: todo sobre la hamburguesa en todas sus formas, de los chefs y las técnicas a las mejores direcciones del mundo.
 
+## About
+
+- [About Burger Breton: who we are and why the name (English)](https://burgerbreton.com/en/about/): Burger Breton is run by big burger lovers who share their passion. Meet the team and find out why the name: Brittany is everywhere around the world.
+- [À propos de Burger Breton : qui sommes-nous ? (Français)](https://burgerbreton.com/fr/a-propos/): Burger Breton, ce sont de grands amateurs de burgers qui partagent leur passion. Qui nous sommes, et pourquoi ce nom : la Bretagne est partout dans le monde.
+- [Quiénes somos: el equipo detrás de Burger Breton (Español)](https://burgerbreton.com/es/quienes-somos/): Burger Breton lo hacen grandes amantes de las hamburguesas que comparten su pasión. Quiénes somos y por qué este nombre: Bretaña está en todo el mundo.
+
 ## Burger news (English)
 
 - [Burger news](https://burgerbreton.com/en/news/): Openings, trends, events and the people shaping burger culture, reported as it happens.
@@ -98,7 +104,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 
 ## Optional
 
-- [XML sitemap](https://burgerbreton.com/sitemap.xml): Every indexable URL of the site with its hreflang alternates and last update.
+- [XML sitemap](https://burgerbreton.com/sitemap.xml): Sitemap index linking one sitemap per language, each with every indexable URL, its hreflang alternates and last update.
 - [Sitemap (English)](https://burgerbreton.com/en/sitemap/): Every page of the site on one page: sections and all published articles.
 - [Plan du site (Français)](https://burgerbreton.com/fr/plan-du-site/): Toutes les pages du site réunies : rubriques et articles publiés.
 - [Mapa del sitio (Español)](https://burgerbreton.com/es/mapa-del-sitio/): Todas las páginas del sitio en una sola: secciones y artículos publicados.
