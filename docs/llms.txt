@@ -10,7 +10,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 
 ## Home pages
 
-- [Burger Breton (English)](https://burgerbreton.com/en/): Burger news, recipes and restaurant reviews: everything about burgers in all their forms, from chefs and techniques to the best addresses worldwide.
+- [Burger Breton (English)](https://burgerbreton.com/): Burger news, recipes and restaurant reviews: everything about burgers in all their forms, from chefs and techniques to the best addresses worldwide.
 - [Burger Breton (Français)](https://burgerbreton.com/fr/): Actu, recettes et critiques de restaurants : tout sur le burger sous toutes ses formes, des chefs et des techniques jusqu'aux meilleures adresses du monde.
 - [Burger Breton (Español)](https://burgerbreton.com/es/): Actualidad, recetas y reseñas de restaurantes: todo sobre la hamburguesa en todas sus formas, de los chefs y las técnicas a las mejores direcciones del mundo.
 
