@@ -29,7 +29,9 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 
 - [Burger recipes](https://burgerbreton.com/en/recipes/): Burger recipes and techniques, from the patty to the bun, tested in our kitchen with exact quantities and timings.
 - [MOS Burger Teriyaki Burger Copycat Recipe (2 Burgers)](https://burgerbreton.com/en/recipes/mos-burger-teriyaki-burger-recipe/): My home copy of Japan's Shin-Tobikiri egg-and-cheese teriyaki burger, built from MOS Burger's May 2024 press release.
+- [Sonic Jalapeno Double Cheeseburger Copycat Recipe](https://burgerbreton.com/en/recipes/sonic-jalapeno-double-cheeseburger-copycat/): I tested a 2-burger copycat with smashed patties, pickled jalapeños and spicy mayo — inspired by Sonic, not its formula.
 - [Triple Meat Whataburger Copycat Recipe (2 Burgers)](https://burgerbreton.com/en/recipes/triple-meat-whataburger-copycat/): Triple Meat Whataburger copycat for 2: three 80/20 patties, mustard, pickles and toasted 5-inch bun.
+- [Ultimate Double Whopper Copycat Recipe for Two](https://burgerbreton.com/en/recipes/ultimate-double-whopper-copycat/): I rebuilt Hungry Jack's Ultimate Double Whopper at home with flame-grilled patties, bacon, double cheese and the classic mayo-ketchup stack.
 - [Homemade Burger Buns: Soft Brioche Buns Recipe](https://burgerbreton.com/en/recipes/homemade-burger-buns-recipe/): Tested homemade burger buns recipe: 8 golden, pillowy brioche buns in 3 hours, with exact weights, proofing times and oven temperatures in °F and °C.
 
 ## Burger restaurants (English)
@@ -62,8 +64,10 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Recettes de burgers (Français)
 
 - [Recettes de burgers](https://burgerbreton.com/fr/recettes/): Nos recettes et techniques de burgers, du steak haché au pain, testées dans notre cuisine avec les quantités et les temps de cuisson exacts.
+- [SuperSONIC Jalapeño Double Sonic : recette maison](https://burgerbreton.com/fr/recettes/supersonic-jalapeno-double-sonic/): Je recrée à la maison le double cheeseburger épicé de Sonic avec deux steaks saisis, cheddar fondu et jalapeños, sans prétendre détenir sa formule.
 - [Recette Tobikiri Teriyaki Burger MOS maison](https://burgerbreton.com/fr/recettes/tobikiri-teriyaki-burger-mos-maison/): Je recrée à la maison le Shin-Tobikiri œuf fondant et fromage Hokkaido, édition limitée japonaise de 2024, avec steak, sauce miso-soja et œuf mollet.
 - [Triple Meat Whataburger : recette triple steak maison](https://burgerbreton.com/fr/recettes/triple-meat-whataburger-maison/): Refaites le Triple Meat Whataburger à la maison : 6 steaks 80/20, moutarde seule, grand pain toasté, sans fromage.
+- [Ultimate Double Whopper maison : recette double steak bacon](https://burgerbreton.com/fr/recettes/ultimate-double-whopper-maison/): Recréez l'Ultimate Double Whopper maison : double steak grillé à la flamme, cheddar fondu, bacon et crudités croquantes.
 - [Pain à burger maison : la recette des buns briochés moelleux](https://burgerbreton.com/fr/recettes/recette-pain-burger-maison/): Recette de pain à burger maison testée : 8 buns briochés dorés et moelleux en 3 h, avec les grammages exacts, les temps de pousse et la cuisson en °C et °F.
 
 ## Restaurants à burgers (Français)
@@ -96,8 +100,10 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Recetas de hamburguesas (Español)
 
 - [Recetas de hamburguesas](https://burgerbreton.com/es/recetas/): Recetas y técnicas de hamburguesas, de la carne al pan, probadas en nuestra cocina con cantidades y tiempos exactos.
+- [Hamburguesa doble con queso y jalapeños estilo Sonic](https://burgerbreton.com/es/recetas/doble-cheeseburger-jalapenos-sonic/): Una receta copycat para 2 burgers con doble steak, queso fundente, jalapeños y mayo picante, sin afirmar que es la fórmula oficial.
 - [Receta hamburguesa teriyaki estilo MOS Burger (2 burgers)](https://burgerbreton.com/es/recetas/hamburguesa-teriyaki-mos-burger/): Mi versión casera para 2 burgers del Shin-Tobikiri Torottama Teriyaki de Hokkaido Cheese, con salsa de soja y miso, huevo meloso y queso fundente.
 - [Triple Meat Whataburger casera: receta paso a paso](https://burgerbreton.com/es/recetas/triple-meat-whataburger-casera/): Imito en casa el triple de Whataburger con 3 filetes, mostaza y pan tostado, sin queso por defecto.
+- [Ultimate Double Whopper casera: receta estilo Hungry Jack's](https://burgerbreton.com/es/recetas/ultimate-double-whopper-casera/): Una réplica casera para 2 burgers con doble carne a la llama, queso, bacon y mayonesa con kétchup, fiel a la composición australiana de octubre de 2026.
 - [Pan de hamburguesa casero: receta de bollos brioche tiernos](https://burgerbreton.com/es/recetas/receta-pan-de-hamburguesa-casero/): Receta probada de pan de hamburguesa casero: 8 bollos brioche dorados y esponjosos en 3 h, con pesos exactos, tiempos de levado y horno en °C y °F.
 
 ## Restaurantes de hamburguesas (Español)
