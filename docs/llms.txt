@@ -29,6 +29,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Burger recipes (English)
 
 - [Burger recipes](https://burgerbreton.com/en/recipes/): Burger recipes and techniques, from the patty to the bun, tested in our kitchen with exact quantities and timings.
+- [Triple Whopper Cheese Copycat Recipe for 2 at Home](https://burgerbreton.com/en/recipes/triple-whopper-cheese-copycat/): My home grill method recreates the Australian triple-stack build with three flame-kissed patties, melted cheddar-style slices and mayo plus tomato sauce.
 - [ShackBurger Recipe Copycat: Shake Shack at Home](https://burgerbreton.com/en/recipes/shackburger-copycat-recipe/): I tested a home ShackBurger copycat with smashed patty, copycat Shack sauce and toasted potato bun.
 - [MOS Burger Teriyaki Burger Copycat Recipe (2 Burgers)](https://burgerbreton.com/en/recipes/mos-burger-teriyaki-burger-recipe/): My home copy of Japan's Shin-Tobikiri egg-and-cheese teriyaki burger, built from MOS Burger's May 2024 press release.
 - [Sonic Jalapeno Double Cheeseburger Copycat Recipe](https://burgerbreton.com/en/recipes/sonic-jalapeno-double-cheeseburger-copycat/): I tested a 2-burger copycat with smashed patties, pickled jalapeños and spicy mayo — inspired by Sonic, not its formula.
@@ -39,6 +40,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Burger restaurants (English)
 
 - [Burger restaurants](https://burgerbreton.com/en/restaurants/): Reviews, chef portraits and city guides to the best burgers worldwide.
+- [Burger Near Me: Find the Closest Burger City](https://burgerbreton.com/en/restaurants/burger-near-me/): Find the best burgers near you: share your location and go straight to our guide to the closest of the 302 burger cities we cover.
 - [Best Burgers in New York: Smash to Wagyu](https://burgerbreton.com/en/restaurants/new-york/): The best burgers in New York, from a $6.50 East Village smash to A5 wagyu in the West Village, with dated, verified NYC burger guides.
 - [Best Burgers in Miami: Smash to Cuban Frita](https://burgerbreton.com/en/restaurants/miami/): The best burgers in Miami, from Wynwood smash burgers to an authentic Cuban frita on SW 8th St, in a dated, verified Miami burger guide.
 - [Best Burgers in London: Brixton to Soho](https://burgerbreton.com/en/restaurants/london/): Best burgers in London: the 2011 burger boom from Brixton Village to Marylebone, street-food markets and the 2026 closures, in dated guides.
@@ -73,6 +75,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Recettes de burgers (Français)
 
 - [Recettes de burgers](https://burgerbreton.com/fr/recettes/): Nos recettes et techniques de burgers, du steak haché au pain, testées dans notre cuisine avec les quantités et les temps de cuisson exacts.
+- [Triple Whopper Cheese maison : recette façon flamme](https://burgerbreton.com/fr/recettes/triple-whopper-cheese-maison/): Je recrée le Triple Whopper Cheese de Hungry Jack's pour 2 burgers : triple steak à la flamme, cheddar fondu et sauces.
 - [Recette ShackBurger Shake Shack : version maison](https://burgerbreton.com/fr/recettes/recette-shackburger-shake-shack/): Je reproduis le ShackBurger à la maison avec un steak smashé, du fromage américain fondu et une sauce façon ShackSauce.
 - [SuperSONIC Jalapeño Double Sonic : recette maison](https://burgerbreton.com/fr/recettes/supersonic-jalapeno-double-sonic/): Je recrée à la maison le double cheeseburger épicé de Sonic avec deux steaks saisis, cheddar fondu et jalapeños, sans prétendre détenir sa formule.
 - [Recette Tobikiri Teriyaki Burger MOS maison](https://burgerbreton.com/fr/recettes/tobikiri-teriyaki-burger-mos-maison/): Je recrée à la maison le Shin-Tobikiri œuf fondant et fromage Hokkaido, édition limitée japonaise de 2024, avec steak, sauce miso-soja et œuf mollet.
@@ -83,6 +86,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Restaurants à burgers (Français)
 
 - [Restaurants à burgers](https://burgerbreton.com/fr/restaurants/): Critiques, portraits de chefs et guides de villes pour dénicher les meilleurs burgers du monde.
+- [Burger près de moi : la ville la plus proche](https://burgerbreton.com/fr/restaurants/burger-pres-de-moi/): Trouvez les meilleurs burgers près de chez vous : partagez votre position et ouvrez le guide de la plus proche de nos 302 villes burger.
 - [Meilleurs burgers à New York : smash et wagyu](https://burgerbreton.com/fr/restaurants/new-york/): Meilleurs burgers à New York : du smash à 6,50 $ de l'East Village au wagyu A5 du West Village, dans nos guides datés et vérifiés.
 - [Meilleurs burgers à Miami : du smash à la frita](https://burgerbreton.com/fr/restaurants/miami/): Meilleurs burgers à Miami : smash de Wynwood, cheeseburger dry-aged à MiMo et vraie frita cubana sur la SW 8th St, adresses vérifiées en 2026.
 - [Meilleur burger à Londres : de Brixton à Soho](https://burgerbreton.com/fr/restaurants/londres/): Meilleur burger à Londres : la vague de 2011, de Brixton Village à Marylebone, les marchés de street food et les fermetures de 2026.
@@ -117,6 +121,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Recetas de hamburguesas (Español)
 
 - [Recetas de hamburguesas](https://burgerbreton.com/es/recetas/): Recetas y técnicas de hamburguesas, de la carne al pan, probadas en nuestra cocina con cantidades y tiempos exactos.
+- [Triple Whopper Cheese casera: receta estilo Hungry Jack's](https://burgerbreton.com/es/recetas/triple-whopper-cheese-casera/): Mi reproducción casera y no oficial del triple a la llama australiano, con cantidades para 2 burgers.
 - [Receta ShackBurger Shake Shack: copia casera](https://burgerbreton.com/es/recetas/receta-shackburger-shake-shack/): Reproduzco en casa el ShackBurger con smash jugoso, queso fundido y salsa de imitación, sin copiar la receta secreta oficial.
 - [Hamburguesa doble con queso y jalapeños estilo Sonic](https://burgerbreton.com/es/recetas/doble-cheeseburger-jalapenos-sonic/): Una receta copycat para 2 burgers con doble steak, queso fundente, jalapeños y mayo picante, sin afirmar que es la fórmula oficial.
 - [Receta hamburguesa teriyaki estilo MOS Burger (2 burgers)](https://burgerbreton.com/es/recetas/hamburguesa-teriyaki-mos-burger/): Mi versión casera para 2 burgers del Shin-Tobikiri Torottama Teriyaki de Hokkaido Cheese, con salsa de soja y miso, huevo meloso y queso fundente.
@@ -127,6 +132,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Restaurantes de hamburguesas (Español)
 
 - [Restaurantes de hamburguesas](https://burgerbreton.com/es/restaurantes/): Reseñas, retratos de chefs y guías de ciudades para encontrar las mejores hamburguesas del mundo.
+- [Hamburguesas cerca de mí: tu ciudad más cercana](https://burgerbreton.com/es/restaurantes/hamburguesas-cerca-de-mi/): Encuentra las mejores hamburguesas cerca de ti: comparte tu ubicación y abre la guía de la más cercana de nuestras 302 ciudades.
 - [Mejores hamburguesas en Nueva York: la guía](https://burgerbreton.com/es/restaurantes/nueva-york/): Las mejores hamburguesas en Nueva York: del smash de 6,50 dólares en East Village al wagyu A5 de West Village, con guías verificadas.
 - [Mejores hamburguesas en Miami: smash y frita](https://burgerbreton.com/es/restaurantes/miami/): Las mejores hamburguesas en Miami: smash en Wynwood, carne madurada en MiMo y frita cubana en la Calle Ocho, con direcciones verificadas.
 - [Mejores hamburguesas en Londres: guía por barrios](https://burgerbreton.com/es/restaurantes/londres/): Las mejores hamburguesas en Londres: el boom de 2011 de Brixton Village a Marylebone, los mercados de street food y los cierres de 2026.
