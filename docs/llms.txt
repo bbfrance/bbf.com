@@ -42,6 +42,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Burger recipes (English)
 
 - [Burger recipes](https://burgerbreton.com/en/recipes/): Burger recipes and techniques, from the patty to the bun, tested in our kitchen with exact quantities and timings.
+- [Burger Seasoning Recipe (and When to Salt)](https://burgerbreton.com/en/recipes/burger-seasoning-recipe/): A salt-free spice blend you mix ahead, and salt on the surface right before cooking, so patties stay tender instead of going springy like sausage.
 - [Lamb Burger Recipe: Feta and Yogurt-Mint Sauce](https://burgerbreton.com/en/recipes/lamb-burger-recipe/): Lamb shoulder at 20% fat, feta folded into the patty, a cold yogurt-mint sauce and the 160°F (71°C) rule, plus Greek, Moroccan and Australian takes.
 - [Bacon Ultimate Cheeseburger Copycat Recipe](https://burgerbreton.com/en/recipes/bacon-ultimate-cheeseburger-copycat-recipe/): Bacon Ultimate Cheeseburger copycat recipe for 2: grill-seasoned patties, American and Swiss, hickory-smoked bacon, plus the 910 vs 930 calorie mix-up.
 - [Chicken Burger Recipe: Crispy or Grilled, Juicy](https://burgerbreton.com/en/recipes/chicken-burger-recipe/): A crispy buttermilk chicken burger for four, a full grilled version, and the internal temperatures that keep the chicken juicy and safe to eat.
@@ -780,6 +781,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Recettes de burgers (Français)
 
 - [Recettes de burgers](https://burgerbreton.com/fr/recettes/): Nos recettes et techniques de burgers, du steak haché au pain, testées dans notre cuisine avec les quantités et les temps de cuisson exacts.
+- [Assaisonnement burger : épices et quand saler](https://burgerbreton.com/fr/recettes/assaisonnement-burger-quand-saler/): Une base d'épices sans sel préparée d'avance, le sel en surface juste avant la cuisson : des steaks hachés tendres, pas des saucisses.
 - [Burger d'agneau à la feta, sauce yaourt-menthe](https://burgerbreton.com/fr/recettes/burger-agneau-feta-sauce-yaourt-menthe/): Burger d'agneau maison : feta dans le steak, cuisson à 71 °C à cœur, sauce yaourt-menthe et trois variantes, grecque, marocaine et australienne.
 - [Recette du Bacon Ultimate Cheeseburger maison](https://burgerbreton.com/fr/recettes/bacon-ultimate-cheeseburger-maison/): Recette du Bacon Ultimate Cheeseburger de Jack in the Box maison : double steak, American cheese, emmental et poitrine fumée, 2 burgers en 35 min.
 - [Burger au thon frais ou en boîte : la recette](https://burgerbreton.com/fr/recettes/burger-au-thon-recette/): Deux recettes de burger au thon : thon frais haché au couteau et saisi mi-cuit, ou galettes de thon en boîte. Températures à cœur et règles anti-anisakis.
@@ -1515,6 +1517,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Recetas de hamburguesas (Español)
 
 - [Recetas de hamburguesas](https://burgerbreton.com/es/recetas/): Recetas y técnicas de hamburguesas, de la carne al pan, probadas en nuestra cocina con cantidades y tiempos exactos.
+- [Condimento para hamburguesas y cuándo salar](https://burgerbreton.com/es/recetas/condimento-para-hamburguesas-cuando-salar/): Una base de especias sin sal que guardas en un tarro y la sal por fuera justo antes de cocinar: así la carne queda tierna, no elástica como una salchicha.
 - [Hamburguesa de cordero: receta con feta y menta](https://burgerbreton.com/es/recetas/hamburguesa-de-cordero-receta/): Paleta de cordero con un 20 % de grasa, feta dentro de la carne, 71 °C en el centro y salsa de yogur y menta. Con variantes griega, marroquí y australiana.
 - [Bacon Ultimate Cheeseburger casero: la receta](https://burgerbreton.com/es/recetas/bacon-ultimate-cheeseburger-casero/): Receta casera del Bacon Ultimate Cheeseburger de Jack in the Box: doble carne, queso americano y suizo y tocino ahumado, para 2 hamburguesas en 35 min.
 - [Hamburguesa de atún fresco o en lata: receta](https://burgerbreton.com/es/recetas/hamburguesa-de-atun-receta/): Hamburguesa de atún fresco picado a cuchillo y sellada rosada, o de atún en lata para un día con prisa: cantidades, temperaturas y la regla del anisakis.
