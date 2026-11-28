@@ -42,6 +42,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Burger recipes (English)
 
 - [Burger recipes](https://burgerbreton.com/en/recipes/): Burger recipes and techniques, from the patty to the bun, tested in our kitchen with exact quantities and timings.
+- [Lentil Burger Recipe: Patties That Don't Crumble](https://burgerbreton.com/en/recipes/lentil-burger-recipe/): A gram-by-gram ratio for firm, crisp lentil patties, cooked in a skillet or baked, with vegan, red lentil and mushroom variations.
 - [Black Bean Burger Recipe: Crispy, Never Mushy](https://burgerbreton.com/en/recipes/black-bean-burger-recipe/): Crispy Tex-Mex black bean burgers that hold together: oven-dried beans, a tortilla-chip binder, a 1-hour chill and a 5-minute sear per side.
 - [Burger Seasoning Recipe (and When to Salt)](https://burgerbreton.com/en/recipes/burger-seasoning-recipe/): A salt-free spice blend you mix ahead, and salt on the surface right before cooking, so patties stay tender instead of going springy like sausage.
 - [Cast Iron Burgers: How to Sear a Real Crust](https://burgerbreton.com/en/recipes/cast-iron-burgers/): Preheat time, oil, minutes per side by thickness and how to keep the smoke down, with 160°F as the only finish line.
@@ -804,6 +805,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Recettes de burgers (Français)
 
 - [Recettes de burgers](https://burgerbreton.com/fr/recettes/): Nos recettes et techniques de burgers, du steak haché au pain, testées dans notre cuisine avec les quantités et les temps de cuisson exacts.
+- [Burger aux lentilles : la recette qui se tient](https://burgerbreton.com/fr/recettes/burger-aux-lentilles/): Burger aux lentilles qui ne se défait pas : le ratio au gramme près, 6 étapes, cuisson poêle ou four, version vegan et variante aux lentilles corail.
 - [Assaisonnement burger : épices et quand saler](https://burgerbreton.com/fr/recettes/assaisonnement-burger-quand-saler/): Une base d'épices sans sel préparée d'avance, le sel en surface juste avant la cuisson : des steaks hachés tendres, pas des saucisses.
 - [Burger d'agneau à la feta, sauce yaourt-menthe](https://burgerbreton.com/fr/recettes/burger-agneau-feta-sauce-yaourt-menthe/): Burger d'agneau maison : feta dans le steak, cuisson à 71 °C à cœur, sauce yaourt-menthe et trois variantes, grecque, marocaine et australienne.
 - [Burger Bacon Ranch Dairy Queen : recette maison](https://burgerbreton.com/fr/recettes/burger-bacon-ranch-dairy-queen-maison/): Le Backyard Bacon Ranch de Dairy Queen à la maison : 2 steaks fins de 75 g, cheddar blanc, bacon épais, onion rings, ranch et barbecue au miel, en 45 min.
@@ -1562,6 +1564,7 @@ Content is original and first-hand: recipes are tested in our own kitchen, resta
 ## Recetas de hamburguesas (Español)
 
 - [Recetas de hamburguesas](https://burgerbreton.com/es/recetas/): Recetas y técnicas de hamburguesas, de la carne al pan, probadas en nuestra cocina con cantidades y tiempos exactos.
+- [Hamburguesa de lentejas que no se deshace](https://burgerbreton.com/es/recetas/hamburguesa-de-lentejas/): Hamburguesa de lentejas casera que no se deshace: proporciones al gramo, a la sartén o al horno, versión vegana sin huevo y los 5 errores que la rompen.
 - [Condimento para hamburguesas y cuándo salar](https://burgerbreton.com/es/recetas/condimento-para-hamburguesas-cuando-salar/): Una base de especias sin sal que guardas en un tarro y la sal por fuera justo antes de cocinar: así la carne queda tierna, no elástica como una salchicha.
 - [Hamburguesa bacon ranch de Dairy Queen casera](https://burgerbreton.com/es/recetas/hamburguesa-bacon-ranch-dairy-queen-casera/): Hamburguesa bacon ranch de Dairy Queen en casa: 2 dobles con filetes de 75 g, cheddar blanco, bacon, aros de cebolla, ranch casero y barbacoa con miel.
 - [Hamburguesa de cordero: receta con feta y menta](https://burgerbreton.com/es/recetas/hamburguesa-de-cordero-receta/): Paleta de cordero con un 20 % de grasa, feta dentro de la carne, 71 °C en el centro y salsa de yogur y menta. Con variantes griega, marroquí y australiana.
